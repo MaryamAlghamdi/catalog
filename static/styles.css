@@ -1,0 +1,144 @@
+* {
+	font-style: italic;
+	font-weight: 750;
+}
+
+h1 {
+	font-style: italic;
+	font-size: 60px;
+	color: #51453B;
+	line-height: 60px;
+	font-weight: 300;
+}
+
+h2 {
+	font-size: 26px;
+	color: #42C3C9;
+	line-height: 29px;
+}
+
+h3 {
+	font-size: 18px;
+	color: #4A4A4A;
+	line-height: 23px;
+}
+ p {
+ 	font-family: "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif;
+ 	font-size: 18px;
+ 	color: #7B7573;
+ 	line-height: 24px;
+ 	font-weight: 400;
+ }
+
+ strong {
+ 	font-size: 16px;
+ 	color: #7B7573;
+ 	line-height: 24px;
+ }
+
+ a {
+ 	font-size: 14px;
+ 	color: #0093B9;
+ 	line-height: 17px;
+ }
+.padding-top {
+	padding-top: 30px;
+}
+.padding-bottom {
+	padding-bottom: 30px;
+}
+.margin-right {
+	margin-right: 30px;
+}
+.padding-none {
+	padding: 0;
+}
+
+.btn:hover {
+	border-color: #9FB80A;
+}
+.btn.delete {
+	border-color: #aaaaaa;
+	color: #aaaaaa;
+}
+.btn.delete:hover {
+	border-color: #aaaaaa;
+	color: red;
+}
+
+.top-lcList {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.top-lcList p {
+	margin-bottom: 0;
+	line-height: 16px;
+}
+.top-lcList a {
+	margin-bottom: 0;
+	line-height: 16px;
+	font-size: 16px;
+	color: #7B7573;
+	font-weight: 400;
+}
+.divider {
+	height: 15px;
+}
+.divider.blue {
+	background-color: #42C3C9;
+}
+.divider.box {
+	background-color: #42C3C9;
+}
+.banner.main {
+	height: 170px;
+	background: url("/static/bic.jpg");
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.banner.lcList {
+	height: 150px;
+	background-color: #42C3C9;
+}
+.banner.profile {
+	height: 150px;
+	background-color: #A6E8EB;
+}
+.banner h1 {
+	margin: 45px 0;
+}
+ .Lcourses-list {
+ 	background-color: #F0F0F0;
+ 	padding: 20px;
+	padding-left: 80px;
+	padding-right : 80px;
+ }
+ .Lcourses-list:hover {
+ 	background-color:#ccffee;
+ 	padding: 20px;
+}
+.lcList-item {
+	background: #F0F0F0;
+	padding: 20px;
+	margin: 20px;
+	margin-left: -20px;
+}
+.lcList-price {
+	font-weight: 700;
+}
+
+.flash {
+	background-color: #98FB98;
+	width:100%;
+	text-decoration: none;
+
+}
+
+.flash li {
+	list-style-type: none;
+	text-align: center;
+
+}
+
+
